@@ -27,7 +27,7 @@ minux  |
 msdos  |  
 vfat  |  
 hpfs  |  
-nfs  |  
+nfs  |  Arion Juarez
 swap  |  Emmanuel Zúñiga
 sysv  |  
 btrfs  |  Jorge I Flores
